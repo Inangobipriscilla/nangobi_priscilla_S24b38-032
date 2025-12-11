@@ -1,0 +1,14 @@
+,0
+high_cost_flag_1,0.31878803426877744
+high_cost_flag_0,0.3178595037349843
+frequent_treatments_flag_1,0.2540750425821021
+avg_treatment_cost,0.22948231075252812
+max_treatment_cost,0.21851794434924288
+recent_treatment_flag_0,0.1965831420166404
+days_since_last_treatment,0.1614811652827497
+total_treatments,0.1517463040691529
+frequent_treatments_flag_0,0.1180579164333968
+gender_M,0.07562673650221696
+recent_treatment_flag_1,0.028543118365967235
+chronic_flag_0,0.0
+gender_F,0.0
